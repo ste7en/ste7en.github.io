@@ -591,6 +591,17 @@ section {
   margin-bottom: 20px;
 }
 
+.portfolio-details .portfolio-description h3 {
+  font-weight: 300;
+  margin-bottom: 20px;
+}
+
+
+.portfolio-details .portfolio-description h4 {
+  font-weight: 200;
+  margin-bottom: 20px;
+}
+
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
